@@ -6,7 +6,7 @@ Reference: D. Simon, Biogeography-Based Optimization, IEEE Transactions on Evolu
 @author: Dan Simon 
 The matlab version of this code is available at link: http://embeddedlab.csuohio.edu/BBO/software/
 
-The code template used is similar to code given at link: https://github.com/7ossam81/EvoloPy
+The code template used is similar to code given at link: https://github.com/himanshuRepo/CKGSA-in-Python
 
 This code is available for non-commercial purposes. We would appreciate an acknowledgment if you use it in your work.
 
