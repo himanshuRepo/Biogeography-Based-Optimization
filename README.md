@@ -1,4 +1,4 @@
-# BBO-in-python
+# Biogeography-Based Optimization
 Python code of Biogeography-Based Optimization (BBO)
 Coded by: Raju Pal (emailid: raju3131.pal@gmail.com) and Himanshu Mittal (emailid: himanshu.mittal224@gmail.com)
 
